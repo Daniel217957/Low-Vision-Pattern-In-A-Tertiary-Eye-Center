@@ -14,10 +14,21 @@ Using Power BI, I developed an interactive and visually intuitive dashboard that
 ### Ethical Considerations
 Ethical considerations are paramount in research involving human subjects. Approval to use the hospital records was obtained from the Head of the records department and the patient records were anonymized to comply with ethical standards.
 
+## What I Analyzed
+The dataset, titled “Ophthalmo Power BI,” contains categorical and numerical data collected from a group of individuals, including age, gender, visual acuity(in the better eye) and diagnosis. I engineered new columns like WHO Age Classification, Diagnosis Category, and Visual Impairment using DAX. I also calculated measures like Average Patient Age and Number of Patients using DAX to compute meaningful KPIs that brought the data to life in Power BI.
 ![Overview](Ophthalmo%20Folder/for_portfolio_split_1.jpg)
  <p align="center"><b>Overview of the Pattern of Low Vision at Guinness Eye Centre, Onitsha</b></p>
  
-## What I Analyzed
-The dataset, titled “survey lung cancer,” contains categorical and numerical data collected from a group of individuals, including
+## Overview
+### 1. Number of Patients and Average Patient Age
+Out of all the patient records that were drawn from October 2024, 214 patients had low vision. In addition, the mean age of patients who presented to the Eye Centre in October 2024 who had low vision was 66.73 years.
+
+### 2. Gender Distribution
+Of the 214 patients, 144(67%) of the patients were females and 70(33%) were males.
+
+**Insight:** More than 2/3 of the patients with low vision for that month were females. This higher burden of low vision in the female gender, extrapolated from the analysis, generates further questions on why females are more predisposed to low vision. Is it due to lifestyle, genetics, or just a reflection of the gender distribution of the population in Onitsha? Or do females have a better health-seeking behaviour than males? This calls for more investigation at Guinness Eye Centre, Onitsha.
+
+### 3. Age Distribution by WHO Age Classification
+From the Line chart in the Overview dashboard above, the majority of the patients presenting to the Eye Centre were elderly, that is, between 60 and 74 years(for both females and males). Following that were seniors (75 years and above: [WHO Age Classification](https://www.instagram.com/p/DKHg8O7ID2J/)).
 ![Breakdown](Ophthalmo%20Folder/ophthalmo%20power%20bi%20project%20for%20portfolio_2.png)
 ![Key Insights](Ophthalmo%20Folder/ophthalmo%20power%20bi%20project%20for%20portfolio_3.png)
