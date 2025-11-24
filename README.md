@@ -88,5 +88,5 @@ Clear public health campaigns and awareness programs on [preventing cataract](ht
 ### 7. Collaboration with stakeholders
 The centre should collaborate more with stakeholders like NGOs and charity organizations to procure more screening equipment, employ more ophthalmologists and reach out to underserved communities that may not have the opportunity to present to the Eye Center in Onitsha.
 
-
-
+## Impact and Value
+This project shows how routine hospital records, when examined carefully, can guide real action in eye care. By pointing out the age groups most affected, the conditions that cause most of the sight loss, and the gaps in care, this analysis helps eye specialists and public health teams plan smarter screening programs and respond earlier to treatable problems. It also gives the hospital a clearer picture of where to place staff, equipment, and community work so that fewer people progress to severe vision impairment and vision loss. 
