@@ -29,6 +29,25 @@ Of the 214 patients, 144(67%) of the patients were females and 70(33%) were male
 **Insight:** More than 2/3 of the patients with low vision for that month were females. This higher burden of low vision in the female gender, extrapolated from the analysis, generates further questions on why females are more predisposed to low vision. Is it due to lifestyle, genetics, or just a reflection of the gender distribution of the population in Onitsha? Or do females have a better health-seeking behaviour than males? This calls for more investigation at Guinness Eye Centre, Onitsha.
 
 ### 3. Age Distribution by WHO Age Classification
-From the Line chart in the Overview dashboard above, the majority of the patients presenting to the Eye Centre were elderly, that is, between 60 and 74 years(for both females and males). Following that were seniors (75 years and above: [WHO Age Classification](https://www.instagram.com/p/DKHg8O7ID2J/)).
+From the Line chart in the Overview dashboard above, the majority of the patients presenting to the Eye Centre were elderly, that is, between 60 and 74 years(for both females and males). Following that were seniors (75 years and above: [WHO Age Classification](https://www.instagram.com/p/DKHg8O7ID2J/)). The least set of patients were youths(15-24 years) and young adults(25 to 44 years).
+
+**Insight:** The age distribution of the paitents by WHO age classification shows that low vision positively correlates with ageing.
+
+### 4. Causes of Low Vision
+As shown in the stacked bar chart, the commonest cause of low vision in Guinness Eye Centre for that month was [cataract](https://www.hopkinsmedicine.org/health/conditions-and-diseases/cataracts): the clouding of the normally clear lens that sits in the eye behind the pupil. 75 patients(35% of the total) with low vision were diagnosed with cataract. This eye disease also demonstrated the general male to female ration of the total patients that presented to the hospital. 
+
+Following closely was [glaucoma](https://www.cdc.gov/vision-health/about-eye-disorders/glaucoma.html): a heterogenous group of eye diseases that eventually damage the optic nerve, resulting in vision loss or blindness. 60 patients(about 28% of the total) with low vision were diagnosed with glaucoma. Cataract and glaucoma combined contributed about 63% (almost 2/3) of the cases of low vision in the Eye Centre in October 2024.
+
+Other eye diseases diagnosed were refractive errors(myopia, hypermetropia, presbyopia, etc), pseudophakia, pterygium, corneal opacity, occular allergies, uveitis and many others. These contributed about 37%(roughly 1/3) of the cases of low vision for the centre in October 2024.
+
+**Insight:** Something has to be done about preventing or slowing the progression of Cataract and glaucoma as these contribute significantly to the incidence of low vision.
+
 ![Breakdown](Ophthalmo%20Folder/ophthalmo%20power%20bi%20project%20for%20portfolio_2.png)
+<p align="center"><b>Breakdown of Age and Visual Acuity</b></p>
+
+### 5. Breakdown of Age and Visual Activity
+In the dashboard, the 7th and 8th decades had the highest number of paitents (76 each), constituting over 71% of the patients with low vision for that month.
+
+The treemap shows a breakdown of patients by visual acuity. Majority of the patients had a visual acuity of 6/18, 6/24 and 6/36, each corresponing to moderate visual impairment(WHO ICD 10 [classification](https://ugc.futurelearn.com/uploads/files/8d/0f/8d0ff8b4-5847-41f6-bb06-f5a3ba81ca82/1.6-Defining-visual-impairment.pdf)). The minority (about 12%) had acuities of 6/60 and 3/60 which fell under severe visual impairment.
+
 ![Key Insights](Ophthalmo%20Folder/ophthalmo%20power%20bi%20project%20for%20portfolio_3.png)
