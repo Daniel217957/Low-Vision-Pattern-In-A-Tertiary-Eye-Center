@@ -50,4 +50,13 @@ In the dashboard, the 7th and 8th decades had the highest number of paitents (76
 
 The treemap shows a breakdown of patients by visual acuity. Majority of the patients had a visual acuity of 6/18, 6/24 and 6/36, each corresponing to moderate visual impairment(WHO ICD 10 [classification](https://ugc.futurelearn.com/uploads/files/8d/0f/8d0ff8b4-5847-41f6-bb06-f5a3ba81ca82/1.6-Defining-visual-impairment.pdf)). The minority (about 12%) had acuities of 6/60 and 3/60 which fell under severe visual impairment.
 
+**Insight:** Targeted interventions and prevention strategies have to implemented for these decades of life. In addition, measures have to be taken to prevent the progression from moderate to severe visual impairment for these patients, and if possible, downgrade to mild visual impairment and normal vision.
+
 ![Key Insights](Ophthalmo%20Folder/ophthalmo%20power%20bi%20project%20for%20portfolio_3.png)
+<p align="center"><b>Key Influencer Analysis</b></p>
+
+### 6. Further Insights
+A key influencer analysis of the dataset showed that visual impairment is likely(1.11 times more) to be moderate in the elderly age group than in other age groups, as shown in the dashboard above.
+
+**Insight:** This further strengthens the point that the elderly are more at risk for low vision.
+
