@@ -1,6 +1,6 @@
 # Investigating the Pattern of Low Vision in a Tertiary Eye Centre
 ![Schematic Diagram of the Cross-section of the Eye](Ophthalmo%20Folder/Gemini_Generated_Image_zajk9zajk9zajk9z.jpg "Schematic diagram of te cross-section of the eye")
-<p align="center"><b>Schematic diagram of the cross-section of the eye</b></p>
+<p align="center"><i>Schematic diagram of the cross-section of the eye</i></p>
 
 ## Skills
 Power BI, DAX, data modeling, data analysis, data transformation and data visualization. 
@@ -15,35 +15,35 @@ Using Power BI, I developed an interactive and visually intuitive dashboard that
 Ethical considerations are paramount in research involving human subjects. Approval to use the hospital records was obtained from the Head of the records department and the patient records were anonymized to comply with ethical standards.
 
 ## What I Analyzed
-The dataset, titled “Ophthalmo Power BI,” contains categorical and numerical data collected from a group of individuals, including age, gender, visual acuity(in the better eye) and diagnosis. I engineered new columns like WHO Age Classification, Diagnosis Category, and Visual Impairment using DAX. I also calculated measures like Average Patient Age and Number of Patients using DAX to compute meaningful KPIs that brought the data to life in Power BI.
+The dataset, titled “Ophthalmo Power BI,” contains categorical and numerical data collected from a group of individuals, including age, gender, visual acuity (in the better eye) and diagnosis. I engineered new columns like WHO Age Classification, Diagnosis Category, and Visual Impairment using DAX. I also calculated measures like Average Patient Age and Number of Patients using DAX to compute meaningful KPIs that brought the data to life in Power BI.
 ![Overview](Ophthalmo%20Folder/for_portfolio_split_1.jpg)
- <p align="center"><b>Overview of the Pattern of Low Vision at Guinness Eye Centre, Onitsha</b></p>
+ <p align="center"><i>Overview of the Pattern of Low Vision at Guinness Eye Centre, Onitsha</i></p>
  
 ## Overview
 ### 1. Number of Patients and Average Patient Age
 Out of all the patient records that were drawn from October 2024, 214 patients had low vision. In addition, the mean age of patients who presented to the Eye Centre in October 2024 who had low vision was 66.73 years.
 
 ### 2. Gender Distribution
-Of the 214 patients, 144(67%) of the patients were females and 70(33%) were males.
+Of the 214 patients, 144 (67%) of the patients were females and 70 (33%) were males.
 
 **Insight:** More than 2/3 of the patients with low vision for that month were females. This higher burden of low vision in the female gender, extrapolated from the analysis, generates further questions on why females are more predisposed to low vision. Is it due to lifestyle, genetics, or just a reflection of the gender distribution of the population in Onitsha? Or do females have a better health-seeking behaviour than males? This calls for more investigation at Guinness Eye Centre, Onitsha.
 
 ### 3. Age Distribution by WHO Age Classification
-From the Line chart in the Overview dashboard above, the majority of the patients presenting to the Eye Centre were elderly, that is, between 60 and 74 years(for both females and males). Following that were seniors (75 years and above: [WHO Age Classification](https://www.instagram.com/p/DKHg8O7ID2J/)). The least set of patients were youths(15-24 years) and young adults(25 to 44 years).
+From the Line chart in the Overview dashboard above, the majority of the patients presenting to the Eye Centre were elderly, that is, between 60 and 74 years (for both females and males). Following that were seniors (75 years and above: [WHO Age Classification](https://www.instagram.com/p/DKHg8O7ID2J/)). The least set of patients were youths (15-24 years) and young adults (25 to 44 years).
 
 **Insight:** The age distribution of the paitents by WHO age classification shows that low vision positively correlates with ageing.
 
 ### 4. Causes of Low Vision
-As shown in the stacked bar chart, the commonest cause of low vision in Guinness Eye Centre for that month was [cataract](https://www.hopkinsmedicine.org/health/conditions-and-diseases/cataracts): the clouding of the normally clear lens that sits in the eye behind the pupil. 75 patients(35% of the total) with low vision were diagnosed with cataract. This eye disease also demonstrated the general male to female ration of the total patients that presented to the hospital. 
+As shown in the stacked bar chart, the commonest cause of low vision in Guinness Eye Centre for that month was [cataract](https://www.hopkinsmedicine.org/health/conditions-and-diseases/cataracts): the clouding of the normally clear lens that sits in the eye behind the pupil. 75 patients (35% of the total) with low vision were diagnosed with cataract. This eye disease also demonstrated the general male to female ration of the total patients that presented to the hospital. 
 
 Following closely was [glaucoma](https://www.cdc.gov/vision-health/about-eye-disorders/glaucoma.html): a heterogenous group of eye diseases that eventually damage the optic nerve, resulting in vision loss or blindness. 60 patients(about 28% of the total) with low vision were diagnosed with glaucoma. Cataract and glaucoma combined contributed about 63% (almost 2/3) of the cases of low vision in the Eye Centre in October 2024.
 
-Other eye diseases diagnosed were refractive errors(myopia, hypermetropia, presbyopia, etc), pseudophakia, pterygium, corneal opacity, occular allergies, uveitis and many others. These contributed about 37%(roughly 1/3) of the cases of low vision for the centre in October 2024.
+Other eye diseases diagnosed were refractive errors (myopia, hypermetropia, presbyopia, etc), pseudophakia, pterygium, corneal opacity, occular allergies, uveitis and many others. These contributed about 37% (roughly 1/3) of the cases of low vision for the centre in October 2024.
 
 **Insight:** Something has to be done about preventing or slowing the progression of Cataract and glaucoma as these contribute significantly to the incidence of low vision.
 
 ![Breakdown](Ophthalmo%20Folder/ophthalmo%20power%20bi%20project%20for%20portfolio_2.png)
-<p align="center"><b>Breakdown of Age and Visual Acuity</b></p>
+<p align="center"><i>Breakdown of Age and Visual Acuity</i></p>
 
 ### 5. Breakdown of Age and Visual Activity
 In the dashboard, the 7th and 8th decades had the highest number of paitents (76 each), constituting over 71% of the patients with low vision for that month.
@@ -53,10 +53,40 @@ The treemap shows a breakdown of patients by visual acuity. Majority of the pati
 **Insight:** Targeted interventions and prevention strategies have to implemented for these decades of life. In addition, measures have to be taken to prevent the progression from moderate to severe visual impairment for these patients, and if possible, downgrade to mild visual impairment and normal vision.
 
 ![Key Insights](Ophthalmo%20Folder/ophthalmo%20power%20bi%20project%20for%20portfolio_3.png)
-<p align="center"><b>Key Influencer Analysis</b></p>
+<p align="center"><i>Key Influencer Analysis</i></p>
 
 ### 6. Further Insights
 A key influencer analysis of the dataset showed that visual impairment is likely(1.11 times more) to be moderate in the elderly age group than in other age groups, as shown in the dashboard above.
 
 **Insight:** This further strengthens the point that the elderly are more at risk for low vision.
+
+# Recommendations Based on Insights
+
+### 1. Support Older Adults With Early Screening
+Because most patients with low vision were older, the centre should organise regular checks for this age group so problems can be found and treated early. Each check up should consist of a [thorough eye examination](https://www.msdmanuals.com/home/eye-disorders/diagnosis-of-eye-disorders/the-eye-examination#Tonometry_v1157388), including:
+###### Refraction 
+###### Visual field testing 
+###### Ophthalmoscopy (also called funduscopy) 
+###### Slit-lamp examination, and 
+###### Tonometry
+
+### 2. Understand Why More Women Are Affected
+Since women made up most of the cases, the centre should carry out a small follow-up review to find out the reasons and respond in a focused way.
+
+### 3. Take Eye Care Outreach to Places With Many Older People
+Low vision increases with age, so the centre should take health talks and basic screening to community spaces where older adults gather.
+
+### 4. Strengthen Early Testing for Cataract and Glaucoma
+Because these two conditions caused most of the cases (more than 2/3), the centre should focus on early tests and patient guidance to help [reduce avoidable sight loss](https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment#:~:text=and%20blindness%20are:-,refractive%20errors,has%20yet%20to%20be%20addressed.). Tonometry is especially important for preventing the progression of glaucoma, and starting the patient immediately on [anti-glaucoma drugs](https://glaucoma.org/articles/glaucoma-medications-and-their-side-effects) (ocular hypotensive agents).
+
+### 5. Pay Special Attention to Patients in Their 60s and 70s
+Since people in these decades had the highest numbers and mostly moderate impairment, the centre should guide them on timely treatment and steps to stop their vision from getting worse and eventual blindness.
+
+### 6. Patient Education
+Clear public health campaigns and awareness programs on [preventing cataract](https://www.webmd.com/eye-health/cataracts/how-can-i-prevent-cataracts) and other eye diseases through simple lifestyle modifications should be instituted. This will significantly reduce the burden of low vision.
+
+### 7. Collaboration with stakeholders
+The centre should collaborate more with stakeholders like NGOs and charity organizations to procure more screening equipment, employ more ophthalmologists and reach out to underserved communities that may not have the opportunity to present to the Eye Center in Onitsha.
+
+
 
