@@ -1,5 +1,9 @@
-# Low-Vision-Pattern-In-A-Tertiary-Eye-Center
-![Schematic Diagram of the Cross-section of the Eye](Ophthalmo%20Folder/Gemini_Generated_Image_zajk9zajk9zajk9z.jpg)
+# Investigating the Pattern of Low Vision in a Tertiary Eye Centre
+![Schematic Diagram of the Cross-section of the Eye](Ophthalmo%20Folder/Gemini_Generated_Image_zajk9zajk9zajk9z.jpg "Schematic diagram of te cross-section of the eye")
+<p align="center"><b>Schematic diagram of the cross-section of the eye</b></p>
+
+## Skills
+Power BI, DAX, data modeling, data analysis, data transformation and data visualization. 
 
 In this project, I performed a detailed analysis of patients who had low vision that presented to Guinnes Eye Center, Onitsha, a tertiary health facility in Nigeria, where I did my ophthalmology posting in my penultimate level in medical school. The analysis yielded some actionable insights, from which I deduced my recommendations.
 ![Overview](Ophthalmo%20Folder/for_portfolio_split_1.jpg)
